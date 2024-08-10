@@ -1,5 +1,5 @@
 #  Hi !! I'm Suprava. 💫
-🌱 I’m currently focusing on Web Developement and Machine Learning Technologies<br><br>👯 I’m looking to collaborate on front end web projects<br><br>🤝 I’m looking for help with Machine Learning<br><br>💬 Ask me about coding , music and sports <br><br>📫 Reach me at - modaksuprava.74@gmail.com
+🌱 I’m currently focusing on Web Development and Machine Learning Technologies<br><br>👯 I’m looking to collaborate on front end web projects<br><br>🤝 I’m looking for help with Machine Learning<br><br>💬 Ask me about coding , music and sports <br><br>📫 Reach me at - modaksuprava.74@gmail.com
 
 
 ## 🌐 Connect with me:
